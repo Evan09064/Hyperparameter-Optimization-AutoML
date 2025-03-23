@@ -1,4 +1,4 @@
-# Hyperparameter Optimization AutoML Assignment 2 – Group 36
+# Hyperparameter Optimization AutoML Project 2 – Group 36
 
 ## About
 This repository contains our work for Automated Machine Learning Project 2. We implement Sequential Model-Based Optimization (SMBO) to tune hyperparameters for scikit-learn models (SVM & AdaBoost) and explore meta-learning using MAML. The project includes our complete SMBO and MAML implementations, utilities for data loading and plotting, and a detailed project report.
